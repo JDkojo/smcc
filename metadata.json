@@ -1,0 +1,6 @@
+{
+  "name": "SMC - Teen Digital Safety Matrix",
+  "description": "Tactical digital street-smarts for the algorithmic age. Empowering teenagers, guardians, and schools with live threat mitigation, app permission auditing, and privacy sovereignty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
